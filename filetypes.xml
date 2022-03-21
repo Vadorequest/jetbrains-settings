@@ -5,16 +5,17 @@
       <mapping pattern=".swcrc" type="JSON" />
       <mapping ext="md " type="Markdown" />
       <mapping pattern=".releaserc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.old" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_CDE" type="PLAIN_TEXT" />
       <mapping pattern=".actrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.old2" type="PLAIN_TEXT" />
       <mapping pattern=".env.old3" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern=".sentrycliignore" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".env.old" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping ext="fql" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
