@@ -1,31 +1,25 @@
 <application>
   <component name="GraziConfig">
-    <option name="enabledLanguages">
-      <set>
-        <option value="English (US)" />
-        <option value="French" />
-      </set>
-    </option>
     <option name="userDisabledRules">
       <set>
-        <option value="LanguageTool.EN.COMMA_PARENTHESIS_WHITESPACE" />
-        <option value="LanguageTool.EN.EMMANUEL_MACRON" />
         <option value="LanguageTool.EN.JAVA_SCRIPT" />
-        <option value="LanguageTool.EN.TOO_LONG_PARAGRAPH" />
-        <option value="LanguageTool.EN.DOUBLE_PUNCTUATION" />
         <option value="LanguageTool.EN.YOU_TUBE" />
-        <option value="LanguageTool.EN.MULTIPLICATION_SIGN" />
-        <option value="LanguageTool.EN.PASSIVE_VOICE" />
-        <option value="LanguageTool.EN.BLACK_LIVES_MATTER" />
-        <option value="LanguageTool.EN.UPPERCASE_SENTENCE_START" />
-        <option value="LanguageTool.EN.TOO_LONG_SENTENCE" />
-        <option value="LanguageTool.EN.WHITESPACE_RULE" />
-        <option value="LanguageTool.EN.LANGUAGE_TOOL" />
         <option value="LanguageTool.EN.COVID_19" />
-        <option value="LanguageTool.EN.SENTENCE_WHITESPACE" />
-        <option value="LanguageTool.EN.WHATS_APP" />
-        <option value="LanguageTool.EN.SHORT_CUT" />
+        <option value="LanguageTool.EN.DOUBLE_PUNCTUATION" />
         <option value="LanguageTool.EN.PAY_PAL" />
+        <option value="LanguageTool.EN.COMMA_PARENTHESIS_WHITESPACE" />
+        <option value="LanguageTool.EN.TOO_LONG_PARAGRAPH" />
+        <option value="LanguageTool.EN.SENTENCE_WHITESPACE" />
+        <option value="LanguageTool.EN.LANGUAGE_TOOL" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.WHITESPACE_RULE" />
+        <option value="LanguageTool.EN.SHORT_CUT" />
+        <option value="LanguageTool.EN.WHATS_APP" />
+        <option value="LanguageTool.EN.MULTIPLICATION_SIGN" />
+        <option value="LanguageTool.EN.UPPERCASE_SENTENCE_START" />
+        <option value="LanguageTool.EN.EMMANUEL_MACRON" />
+        <option value="LanguageTool.EN.BLACK_LIVES_MATTER" />
+        <option value="LanguageTool.EN.TOO_LONG_SENTENCE" />
       </set>
     </option>
     <option name="suppressingContext">
