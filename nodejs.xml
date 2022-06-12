@@ -3,11 +3,17 @@
     <local-interpreter path="$USER_HOME$/dev/SIB/node_modules/babel-cli/lib/babel-node.js">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/17.6.0/bin/node">
+      <version-cache version="17.6.0" last-modified="1645613889528" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="17.6.0" last-modified="1645613889528" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/17.3.0/bin/node">
-      <version-cache version="17.3.0" last-modified="1640171024688" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.19.1/bin/node">
+      <version-cache version="14.19.1" last-modified="1647533892000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.18.1/bin/node">
       <version-cache version="14.18.1" last-modified="1634017198000" />
