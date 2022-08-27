@@ -5,6 +5,7 @@
       <mapping pattern=".swcrc" type="JSON" />
       <mapping ext="md " type="Markdown" />
       <mapping pattern=".releaserc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_CDE" type="PLAIN_TEXT" />
       <mapping pattern=".actrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.old2" type="PLAIN_TEXT" />
